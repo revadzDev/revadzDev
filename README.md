@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🚀 Hi! I'm Vladislav — BIM Developer | Automation & Plugins  
 
-<!--
-**revadzDev/revadzDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Previously worked as a BIM specialist in design, coordination, and management. Now, I focus on developing plugins for Revit and Pilot-BIM, automating processes, and creating tools to improve efficiency in BIM workflows. I also work with the IFC format and its integration into various processes.  
 
-Here are some ideas to get you started:
+## 📍 Location  
+Moscow  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- C#  
+- Python  
+- Revit API  
+- Pilot-BIM API  
+- IFC  
+
+## 📊 Interests  
+- Data analysis  
+- Machine learning  
+- BIM automation  
+- Development of design tools  
+
+## 📩 Contact  
+[Telegram](https://t.me/VladosRev)  
+
+Open to collaboration and new ideas! 🚀
